@@ -1,0 +1,3 @@
+/Users/alessandrogrunwald/Desktop/git//Exercise2/img/im2.jpg
+/Users/alessandrogrunwald/Desktop/git//Exercise2/img/img1.jpg
+/Users/alessandrogrunwald/Desktop/git//Exercise2/img/img3.jpg
